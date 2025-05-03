@@ -1,0 +1,6 @@
+[submodule "AleaStoreBack"]
+	path = AleaStoreBack
+	url = https://github.com/pncar/AleaStoreBack
+[submodule "AleaStoreFront"]
+	path = AleaStoreFront
+	url = https://github.com/pncar/AleaStoreFront
